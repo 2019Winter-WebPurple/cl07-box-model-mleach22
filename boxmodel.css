@@ -1,0 +1,43 @@
+/*
+* name
+* Due date
+* project name and description
+*/
+
+/* The Universal Selector */
+
+* {
+    margin: 2px;
+    padding: 4px;
+}
+
+/* Body properties here */
+
+body {
+    width: 65%; /*centers the work on the page*/ 
+    margin: auto; /*specifies the margin space*/
+}
+
+body {
+    height: auto;
+    width: auto;
+    border: 4px dotted orange;
+}
+
+main {
+    height: auto;
+    width: auto;
+    border: 5px solid aliceblue;
+}
+
+h1 {
+    height: auto;
+    width: auto;
+    border: 2px dashed mistyrose;
+}
+
+p {
+    height: auto;
+    width: auto;
+    border: 2px dashed lightgreen;
+}
