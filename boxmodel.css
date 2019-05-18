@@ -7,20 +7,17 @@
 /* The Universal Selector */
 
 * {
-    margin: 2px;
-    padding: 4px;
+    margin: 0px;
+    padding: 0px;
 }
 
 /* Body properties here */
 
 body {
     width: 65%; /*centers the work on the page*/ 
-    margin: auto; /*specifies the margin space*/
-}
-
-body {
+    margin: 4px; /*specifies the margin space*/
+    padding: 4px;
     height: auto;
-    width: auto;
     border: 4px dotted orange;
 }
 
@@ -28,16 +25,22 @@ main {
     height: auto;
     width: auto;
     border: 5px solid aliceblue;
+    margin: 4px;
+    padding: 4px;
 }
 
 h1 {
     height: auto;
     width: auto;
     border: 2px dashed mistyrose;
+    margin: 4px;
+    padding: 4px;
 }
 
 p {
     height: auto;
     width: auto;
     border: 2px dashed lightgreen;
+    margin: 4px;
+    padding: 4px;
 }
